@@ -13,4 +13,9 @@ Automata Theory (Ed.M. grad course)
    * ISBN	9788982415326
 
 ## 수업에 사용할 소프트웨어
+
+[CoCalc](https://cocalc.com/)
+
 [Jandi](https://tc2019.jandi.com/)
+
+[HiClass](https://hiclass.hannam.ac.kr/courses/6206)
