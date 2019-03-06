@@ -10,7 +10,7 @@ Automata Theory (Ed.M. grad course)
    * 저자: 김삼묘, 유기영
    * 출판사: 이한
    * 출판년도: 2007
-   * ISBN	9788982415326
+   * ISBN: 9788982415326
 
 * [서울대학교 MOOC 컴퓨터과학 교양강좌](https://www.youtube.com/playlist?list=PL0Nf1KJu6Ui7yoc9RQ2TiiYL9Z0MKoggH) 중 관련 내용
 
