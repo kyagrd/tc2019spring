@@ -14,6 +14,13 @@ Automata Theory (Ed.M. grad course)
 
 * [서울대학교 MOOC 컴퓨터과학 교양강좌](https://www.youtube.com/playlist?list=PL0Nf1KJu6Ui7yoc9RQ2TiiYL9Z0MKoggH) 중 관련 내용
 
+## 강의에 활용하는 Haskell 노트북
+[Jupyter](https://jupyter.org/)의 [IHaskell](https://github.com/gibiansky/IHaskell) 커널로 실행되는 노트북 자료가
+계속 추가/업데이트 예정입니다. 이 노트북들은 직접 주피터와 IHaskell 커널을 설치하지 않아도 CoCalc에 무료가입하여 업로드하면
+클라우드 환경에서도 실행시킬 수 있습니다.
+
+* [Preliminaries.ipynb](https://nbviewer.jupyter.org/github/kyagrd/tc2019spring/blob/master/Preliminaries.ipynb)
+
 ## 수업에 사용할 소프트웨어
 
 [CoCalc](https://cocalc.com/)
