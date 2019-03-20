@@ -20,6 +20,7 @@ Automata Theory (Ed.M. grad course)
 클라우드 환경에서도 실행시킬 수 있습니다.
 
 * [Preliminaries.ipynb](https://nbviewer.jupyter.org/github/kyagrd/tc2019spring/blob/master/Preliminaries.ipynb)
+* [FormalLanguages.ipynb](https://nbviewer.jupyter.org/github/kyagrd/tc2019spring/blob/master/FormalLanguages.ipynb)
 
 ## 수업에 사용할 소프트웨어
 
