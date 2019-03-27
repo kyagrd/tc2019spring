@@ -21,6 +21,7 @@ Automata Theory (Ed.M. grad course)
 
 * [Preliminaries.ipynb](https://nbviewer.jupyter.org/github/kyagrd/tc2019spring/blob/master/Preliminaries.ipynb)
 * [FormalLanguages.ipynb](https://nbviewer.jupyter.org/github/kyagrd/tc2019spring/blob/master/FormalLanguages.ipynb)
+* [Automata.ipynb](https://nbviewer.jupyter.org/github/kyagrd/tc2019spring/blob/master/Automata.ipynb)
 
 ## 수업에 사용할 소프트웨어
 
